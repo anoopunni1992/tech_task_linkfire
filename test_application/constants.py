@@ -3,5 +3,5 @@
 #----purpose: LinkFire Interview Task 
 #----Code Logic: Define constants used in the application
 
-TOPIC_1='test'
+TOPIC_1='new_topic'
 TOPIC_2='old_topic'
