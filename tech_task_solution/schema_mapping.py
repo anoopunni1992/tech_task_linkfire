@@ -2,7 +2,7 @@
 #----Date: 07-oct-2021
 #----purpose: LinkFire Interview Task 
 #----Code Logic:
-#--------Python Module Implemented to convert Json message from new schema ( Schema corresponding to new data pipeline)
+#--------Python Module Implemented to map Json message from new schema ( Schema corresponding to new data pipeline)
 #--------to old schema (Schema corresponding to old data pipeline). The Json message with old schema will be forwarded to 
 #--------another kafka topic, applications relaying on old data pipeline can make use of this message.
    
