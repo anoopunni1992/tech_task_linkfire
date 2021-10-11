@@ -1,7 +1,7 @@
 # Linkfire Data Engineer Technical Task
 
 ## Solution Details
-Solution for the task (both code and theoretical explanation) is kept under (https://github.com/anoopunni1992/tech_task_linkfire/tree/main/tech_task_solution
+Solution for the task (both code and theoretical explanation) is kept under (https://github.com/anoopunni1992/tech_task_linkfire/tree/main/tech_task_solution)
 
 ## Test application
 Test application, just to represent the working of mapping logic is kept under (https://github.com/anoopunni1992/tech_task_linkfire/tree/main/test_application)
